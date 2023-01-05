@@ -52,7 +52,7 @@ Traffic Grid - Це модель руху транспорту в міській
 
 
 
-![](fig1.PNG)
+![](fig1.png)
 
 
 
@@ -77,7 +77,7 @@ Traffic Grid - Це модель руху транспорту в міській
 </tbody>
 </table>
 
-![](fig2.PNG)
+![](fig2.png)
 
 
 
